@@ -1,3 +1,18 @@
+
+body {
+background-image: url("https://cdn.pixabay.com/photo/2012/04/05/01/24/dice-25637__340.png");
+background-color: transparent;
+}
 container {
   display: table;
+}
+header
+Instructions {
+  text-align: center;
+  padding: 5px;
+  color: white;
+  border-color: aqua;
+  font-size: 20pt;
+  border-radius: 5x;
+  border-color: yellow;
 }
