@@ -14,11 +14,11 @@ input[type=text], select {
     display: inline-block;
     border: 1px solid #aqua;
     box-sizing: border-box;
-	background-color: white;
+	background-color: red;
 }
 .btn{
     background-color:  #;
-    color: white;
+    color: red;
     font-size: 18px;
     padding: 12px 20px;
     margin: 8px 0;
@@ -28,8 +28,7 @@ input[type=text], select {
 	margin-left: 30px;
 }
 body {
-  background-image: url('/home/patricia/Documents/Pig-Dice/images/dices-16.png')
-
+  background-image: url('/home/patricia/Documents/Pig-Dice/images/dices-16.png);
 }
 .border {
   background-color: transparent;
