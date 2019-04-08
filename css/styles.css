@@ -1,4 +1,8 @@
-
+#player1Name,
+#player2Name {
+	color:red;
+	font-size: 80px;
+}
 body{
 	font-family: 'Hind Siliguri', Open Sans;
 }
@@ -28,7 +32,7 @@ input[type=text], select {
 	margin-left: 30px;
 }
 body {
-  background-image: url('/home/patricia/Documents/Pig-Dice/images/dices-16.png);
+  background-image: url('/home/patricia/Documents/Pig-Dice/images/dices-16.png');
 }
 .border {
   background-color: transparent;
