@@ -35,7 +35,7 @@ body {
   background-image: url('/home/patricia/Documents/Pig-Dice/images/dices-16.png');
 }
 .border {
-  background-color: transparent;
+background-color: white;
 }
 .form id {
   color: white;
