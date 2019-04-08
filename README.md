@@ -3,6 +3,7 @@
 pig Dice 
 
 ##Description
+
 1. This is web based of two players play pig dice game.
 2.It basically provides interface where two players could compete against  each other by rolling dice.
 3.Each player rolls a dice at a time.
@@ -10,6 +11,8 @@ pig Dice
 5.The winner scores 100.
 
 ##Tech Used
+
+
 HTML
 CSS
 Javascript 
@@ -23,9 +26,11 @@ Bootstrap
 4.the game will end and the results displayed.
 
 ##Link
+
 https://github.com/WairimuKariuki/Pig-Dice
 
 ##Contact
+
 email:janepatricia27@gmail.com
 
-    Copyright (c) Wairimu  Kariuki
+                         Copyright (c) Wairimu  Kariuki
