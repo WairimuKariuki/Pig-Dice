@@ -12,12 +12,12 @@ input[type=text], select {
     padding: 10px 16px;
     margin: 8px 0;
     display: inline-block;
-    border: 1px solid #ccc;
+    border: 1px solid #aqua;
     box-sizing: border-box;
-	background-color: #ccc;
+	background-color: white;
 }
 .btn{
-    background-color: 	#3232ff;
+    background-color:  #;
     color: white;
     font-size: 18px;
     padding: 12px 20px;
@@ -26,4 +26,18 @@ input[type=text], select {
     border-radius: 4px;
     cursor: pointer;
 	margin-left: 30px;
+}
+body {
+  background-image: url('/home/patricia/Documents/Pig-Dice/images/dices-16.png')
+
+}
+.border {
+  background-color: transparent;
+}
+.form id {
+  color: white;
+}
+body {
+  background-size:cover;
+  background-repeat: no-repeat;
 }
